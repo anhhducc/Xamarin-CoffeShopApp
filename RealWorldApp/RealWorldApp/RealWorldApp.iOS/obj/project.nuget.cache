@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "TD+Ro9wlXTt+fslYqyxrEAReOrYejhB862tgRnG+xDuso0aogeVNWgZ9Bzcr+iXl7Nl1ghzZ2fbM6gkwBwBaeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LG Gram\\Desktop\\IE307.N11\\Food-App-master\\RealWorldApp\\RealWorldApp\\RealWorldApp.iOS\\RealWorldApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG Gram\\.nuget\\packages\\epoch.unix.timestamp\\2.0.0\\epoch.unix.timestamp.2.0.0.nupkg.sha512",
+    "C:\\Users\\LG Gram\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LG Gram\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LG Gram\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\LG Gram\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Newtonsoft.Json from 13.0.2 to 12.0.3. Reference the package directly from the project to select a different version. \r\n RealWorldApp.iOS -> RealWorldApp -> Newtonsoft.Json (>= 13.0.2) \r\n RealWorldApp.iOS -> Newtonsoft.Json (>= 12.0.3)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
